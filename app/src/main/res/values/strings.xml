@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BTec CampusExpense Manager</string>
+    <string name="hello_world_it0601_android_java">Hello World IT0601 - Android Java</string>
+    <string name="app_login">LOGIN</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="enter_username">Enter username</string>
+    <string name="enter_password">Enter password</string>
+    <string name="app_submit">Submit</string>
+    <string name="app_logout">Logout</string>
+</resources>
